@@ -16,6 +16,6 @@ if __name__ == "__main__":
     sol = Solution()
 
     # Test cases
-    print(sol.isPalindrome(121))   # Expected Output: True
-    print(sol.isPalindrome(-121))  # Expected Output: False
+    print(sol.isPalindrome(121))   
+    print(sol.isPalindrome(-121)) 
     print(sol.isPalindrome(10))
